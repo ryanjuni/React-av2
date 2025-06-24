@@ -15,3 +15,5 @@ If you are developing a production application, we recommend using TypeScript wi
 # React-av2
 Trabalho em React (usado o Vite) Professor Leornardo Viera
 >>>>>>> 12de9f42480368c7bd08ed9737bc2fba39aa2395
+
+https://react-av2.vercel.app/ -- link do vercel
